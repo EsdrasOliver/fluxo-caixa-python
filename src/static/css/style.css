@@ -12,3 +12,27 @@
 .dvBusca form input {
     margin-right: 10px;
 }
+
+.dvTabela table {
+    width: 100%;
+}
+
+.dvTabela table th {
+    padding: 10px;
+}
+
+.dvTabela table tr {
+    border: 1px solid #cfcfcf;
+}
+
+.dvTabela table td {
+    padding: 10px;
+}
+
+.dvTabela table td:last-child {
+    width: 20px;
+}
+
+.dvTabela table thead {
+    background-color: #cfcfcf;
+}
